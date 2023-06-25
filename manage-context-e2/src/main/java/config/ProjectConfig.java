@@ -16,9 +16,9 @@ public class ProjectConfig {
     }
 
     @Bean
-    public Owner owner() {
+    public Owner owner(Cat cat) {
         Owner owner = new Owner();
-        owner.setCat(cat()); // Spring already will find an instance of the cat when calling the method cat() so spring will not make a new instance
+        owner.setCat(cat); // spring injected the instance of cat bean from the context
         return owner;
     }
 }

@@ -10,6 +10,9 @@ public class Main {
      *  1. Wiring:
      *  So, Wiring is when you can the method that creates an instance of a bean, spring check the context if there is
      *  an already created instance will return it instead of executing the creation method that you called.
+     *
+     *  2. Autowiring:
+     *  is better option(using parameters instead of calling creation methods) as it enables you to have multiple configuration files and take beans from other files.
      */
     public static void main(String[] args) {
         try(var context = new AnnotationConfigApplicationContext(ProjectConfig.class)) {
