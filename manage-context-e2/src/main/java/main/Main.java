@@ -20,11 +20,11 @@ public class Main {
      */
     public static void main(String[] args) {
         try(var context = new AnnotationConfigApplicationContext(ProjectConfig.class)) {
-            Cat cat = context.getBean(Cat.class);
+//            Cat cat = context.getBean(Cat.class);
             Owner owner = context.getBean(Owner.class);
 
-            cat.setName("Leo"); // the owner also will change cause the owner has a reference to the cat
-            System.out.println(cat);
+//            cat.setName("Leo"); // the owner also will change cause the owner has a reference to the cat
+//            System.out.println(cat);
             System.out.println(owner);
 
         }
