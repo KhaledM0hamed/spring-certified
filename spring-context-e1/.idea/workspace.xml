@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c8983993-62d2-435d-802b-4fbf2afc96c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/beans/MyBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/ProjectConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/ProjectConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +53,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "ebe8e14f768ec1fcb328f64908c90f60",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -106,7 +104,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687600677485</updated>
-      <workItem from="1687600678551" duration="8269000" />
+      <workItem from="1687600678551" duration="9311000" />
+      <workItem from="1687677297389" duration="32000" />
     </task>
     <servers />
   </component>
