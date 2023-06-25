@@ -12,7 +12,11 @@ public class Main {
      *  an already created instance will return it instead of executing the creation method that you called.
      *
      *  2. Autowiring:
-     *  is better option(using parameters instead of calling creation methods) as it enables you to have multiple configuration files and take beans from other files.
+     *  is better option(using parameters instead of calling creation methods) as it enables you to have multiple
+     *  configuration files and take beans from other files.
+     *
+     *  3. Using @Autowired with @Component:
+     *  using @Autowired above the constructor and making the dependency final is the best way to get instance from the context
      */
     public static void main(String[] args) {
         try(var context = new AnnotationConfigApplicationContext(ProjectConfig.class)) {
