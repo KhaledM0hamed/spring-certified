@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="l4-aspect-orianted-programing" />
+        <module name="manage-context-e2" />
+        <module name="l7-transaction-isolation" />
+        <module name="spring-context-e1" />
+        <module name="connect-database-l3" />
+        <module name="l6-transaction-propagation" />
+        <module name="l5-transactional" />
+        <module name="l3-more-about-qualifiers" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="connect-database-l3" target="17" />
+      <module name="l3-more-about-qualifiers" target="17" />
+      <module name="l4-aspect-orianted-programing" target="17" />
+      <module name="l5-transactional" target="17" />
+      <module name="l6-transaction-propagation" target="17" />
+      <module name="l7-transaction-isolation" target="17" />
+      <module name="manage-context-e2" target="17" />
+      <module name="spring-context-e1" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

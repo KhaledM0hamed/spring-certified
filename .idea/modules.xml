@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/l3-connect-database/connect-database-l3.iml" filepath="$PROJECT_DIR$/l3-connect-database/connect-database-l3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3-more-about-qualifiers/l3-more-about-qualifiers.iml" filepath="$PROJECT_DIR$/l3-more-about-qualifiers/l3-more-about-qualifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l4-aspect-orianted-programing/l4-aspect-orianted-programing.iml" filepath="$PROJECT_DIR$/l4-aspect-orianted-programing/l4-aspect-orianted-programing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l5-transactional/l5-transactional.iml" filepath="$PROJECT_DIR$/l5-transactional/l5-transactional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l6-transaction-propagation/l6-transaction-propagation.iml" filepath="$PROJECT_DIR$/l6-transaction-propagation/l6-transaction-propagation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l7-transaction-isolation/l7-transaction-isolation.iml" filepath="$PROJECT_DIR$/l7-transaction-isolation/l7-transaction-isolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2-manage-context/manage-context-e2.iml" filepath="$PROJECT_DIR$/l2-manage-context/manage-context-e2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-certified.iml" filepath="$PROJECT_DIR$/.idea/spring-certified.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l1-spring-context/spring-context-e1.iml" filepath="$PROJECT_DIR$/l1-spring-context/spring-context-e1.iml" />
+    </modules>
+  </component>
+</project>

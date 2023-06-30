@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/l5-transactional/pom.xml" />
+        <option value="$PROJECT_DIR$/l1-spring-context/pom.xml" />
+        <option value="$PROJECT_DIR$/l2-manage-context/pom.xml" />
+        <option value="$PROJECT_DIR$/l3-connect-database/pom.xml" />
+        <option value="$PROJECT_DIR$/l3-more-about-qualifiers/pom.xml" />
+        <option value="$PROJECT_DIR$/l7-transaction-isolation/pom.xml" />
+        <option value="$PROJECT_DIR$/l6-transaction-propagation/pom.xml" />
+        <option value="$PROJECT_DIR$/l4-aspect-orianted-programing/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

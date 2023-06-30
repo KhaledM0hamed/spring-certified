@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/l1-spring-context/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l1-spring-context/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l2-manage-context/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l2-manage-context/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l3-connect-database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l3-connect-database/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l3-more-about-qualifiers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l3-more-about-qualifiers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l4-aspect-orianted-programing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l4-aspect-orianted-programing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l5-transactional/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l5-transactional/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l6-transaction-propagation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l6-transaction-propagation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l7-transaction-isolation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/l7-transaction-isolation/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
